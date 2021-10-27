@@ -1,14 +1,17 @@
 ### Hi there, I'm Danny 👋 a digital delivery manager living in beautiful London 🇬🇧
 
-My mission is to use Continuous Integration / Continuous Delivery (CI/CD) when releasing code while managing business practices and projects with an Agile mindset. I am a Certified Scrum Master working in the middle of the Technical Team (Dev, QA, Dev Ops) and Product Owner to fulfil requirements and meet deadlines. I have more than two years working in E-Commerce for a major global brand solving both technical, as well as business processes problems. To learn more and understand what exactly a digital delivery manager does, head to my website which you can find down below:
+Self-motivated and highly experienced Product/Delivery Manager with proven success in large-scale Retail, E-commerce & Telecommunication companies.
+I have a passion for continuous improvement that ensures teams get high-quality software into production early and often. I take a data-informed approach in many work areas, making sure new features help drive OKRs in the right direction.
+I am a Certified Scrum Master and Kanban Practitioner with over 5 years of experience managing cross-functional teams both in delivery and product roles with a developer background which allows me to have a deeper understanding of the product I manage or deliver.
+Experience in: Product Management, Delivery Management, Stakeholder Engagement, Agile Coaching, Scrum, Lean Kanban, E-Commerce, SaaS, Salesforce Commerce Cloud, Program Delivery, DevOps and Web Development.
+
 
 [![Website](https://img.shields.io/website?label=dannymonroy.com&style=for-the-badge&url=https%3A%2F%2Fdannymonroy.com)](https://www.dannymonroy.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/dannypmonroy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=dannypmonroy)
 
 ## Currentely working on
 
-- 🔭 AWS Cloud Practioner
-- ⚡ Professional Scrum Master (PSM-1)
+- ⚡ Virgin Media O2
 
 
 ## Connect with me:
@@ -35,10 +38,6 @@ My mission is to use Continuous Integration / Continuous Delivery (CI/CD) when r
 
 <br />
 <br />
-
-## Stats:
-
-<img align="left" alt="Danny Monroy Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dannymonroy&show_icons=true&hide_border=true" />
 
 [website]: https://dannymonroy.com
 [twitter]: https://twitter.com/dannypmonroy
