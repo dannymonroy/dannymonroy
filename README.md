@@ -1,12 +1,15 @@
-### Hi there, I'm Danny 👋 a digital delivery manager living in beautiful London 🇬🇧
+### Hi there, I'm Danny 👋 a Technical Product Manager living in beautiful London 🇬🇧
 
-Self-motivated and highly experienced Product/Delivery Manager with proven success in large-scale Retail, E-commerce & Telecommunication companies.
-I have a passion for continuous improvement that ensures teams get high-quality software into production early and often. I take a data-informed approach in many work areas, making sure new features help drive OKRs in the right direction.
-I am a Certified Scrum Master and Kanban Practitioner with over 5 years of experience managing cross-functional teams both in delivery and product roles with a developer background which allows me to have a deeper understanding of the product I manage or deliver.
-Experience in: Product Management, Delivery Management, Stakeholder Engagement, Agile Coaching, Scrum, Lean Kanban, E-Commerce, SaaS, Salesforce Commerce Cloud, Program Delivery, DevOps and Web Development.
+As a Senior Technical Product Manager with +3 years of experience in Retail, E-commerce, and Telecommunications, I excel in delivering innovative software solutions that surpass customer expectations.
+
+I specialise in managing cross-functional teams, aligning products with business objectives using data-driven approaches, and leveraging Agile methodologies like Scrum and Kanban. My technical proficiency encompasses a range of technologies, and I expertly manage development processes with tools like Jira, GA4, Github, Miro and Userzoom.
+
+In my current role, I oversee technical products within the app space. My passion lies in bridging customer and technical perspectives to drive innovation and enhance product development.
+
+I'm dedicated to embedding the company's strategic vision into product roadmaps, ensuring that our teams build the right solutions that align with our broader goals.
 
 
-[![Website](https://img.shields.io/website?label=dannymonroy.com&style=for-the-badge&url=https%3A%2F%2Fdannymonroy.com)](https://www.dannymonroy.com)
+[![Website](https://img.shields.io/website?label=dannymonroy.com&style=for-the-badge&url=https%3A%2F%2Fdannymonroy.com)](https://www.dannymonroy.com) (Under update)
 [![Twitter Follow](https://img.shields.io/twitter/follow/dannypmonroy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=dannypmonroy)
 
 ## Currentely working on
